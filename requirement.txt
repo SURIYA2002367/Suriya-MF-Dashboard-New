@@ -1,0 +1,3 @@
+Mftools
+streamlit
+plotly.express

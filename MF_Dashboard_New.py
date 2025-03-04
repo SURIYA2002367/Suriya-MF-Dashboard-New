@@ -7,7 +7,7 @@ import plotly.express as px
 #First initie with
 mf = Mftool()
 
-st.title('Welcome to Suriya Mutual Fund Dashboard')
+st.title('🎈Welcome to Suriya Mutual Fund Dashboard🎈')
 
 option = st.sidebar.selectbox(
     "Choose an action",
